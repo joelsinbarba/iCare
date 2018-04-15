@@ -6,9 +6,9 @@ my final project for highschool.
 
 The concept of iCare was a smart bracelet that kids prone to epilectic seizures would wear, so that their parents get
 notified trough an app as soon as the attact starts to happen. 
-I don't have an arduino right now so I can't check out the state of the code right now, however the contents here may be useful
-examples for using the accelerometer and gyroscope with the arduino and differenciating between walking, standing
-and a seizure by comparing data of the components.
+I don't have an arduino right now so I can't check out the state of the code, however the contents here may be useful
+examples for using the accelerometer and gyroscope with the arduino to differentiate between walking, standing
+and a having seizures by comparing data of the components.
 
 ### These images were for the presentation: 
 ![01](images/01small.jpg)
