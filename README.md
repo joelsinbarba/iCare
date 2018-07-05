@@ -10,13 +10,17 @@ I don't have an arduino right now so I can't check out the state of the code, ho
 examples for using the accelerometer and gyroscope with the arduino to differentiate between walking, standing
 and a having seizures by comparing data of the components.
 
-### These images were for the presentation: 
-![01](images/01small.jpg)
-![02](images/02small.jpg)
+### These images were used in the presentation: 
+<p align="center">
+  <img src="images/01small.jpg"/>
+   <img src="images/02small.jpg"/>
+</p>
 
 ### And here's the connection of all the components involved
 (Just for reference,as we actually used the arduino nano to make it fit in a bracelet):
-![](images/05-hc06-fritzing.jpg)
-![](images/Arduino-BT.jpg)
-![](images/arduinos.png)
-![](images/MPU-6050-Board-GY-521-UNOfzz_bb.png)
+<p align="center">
+  <img src="images/05-hc06-fritzing.jpg"/>
+   <img src="images/Arduino-BT.jpg"/>
+  <img src="images/arduinos.png"/>
+  <img src="images/MPU-6050-Board-GY-521-UNOfzz_bb.png"/>
+</p>
